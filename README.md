@@ -6,10 +6,10 @@ Summer School: July 6, 2011 - July 13, 2011. DERI, NUI Galway
 
 Supporting material for the tutorial "Graph and Network Analysis" by Dr. Derek Greene from the Clique Research Cluster, providing an introduction to social network analysis, with examples using the Python NetworkX library.
  
-* [Tutorial Slides](https://github.com/swinton/Web-Science-Summer-School-2011/tutorial.pdf)
-* [Supporting Datasets](https://github.com/swinton/Web-Science-Summer-School-2011/data/)
-* [Supporting Python Code](https://github.com/swinton/Web-Science-Summer-School-2011/code/)
-* [Irish Blogs Network Data](https://github.com/swinton/Web-Science-Summer-School-2011/irishblogs-network-20110209/)
+* [Tutorial Slides](https://github.com/swinton/Web-Science-Summer-School-2011/blob/master/tutorial.pdf?raw=true)
+* [Supporting Datasets](https://github.com/swinton/Web-Science-Summer-School-2011/tree/master/data/)
+* [Supporting Python Code](https://github.com/swinton/Web-Science-Summer-School-2011/tree/master/code/)
+* [Irish Blogs Network Data](https://github.com/swinton/Web-Science-Summer-School-2011/tree/master/irishblogs-network-20110209/)
 
 Related Resources
 -----------------
